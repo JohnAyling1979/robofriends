@@ -1,3 +1,6 @@
-npm install
+# Robofriends
+Project from a Udemy showing redux-thunk
 
-npm start
+- npm install
+
+- npm start
